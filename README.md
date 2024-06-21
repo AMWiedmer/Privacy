@@ -1,1 +1,1 @@
-# Privacy
+# Privacy preserving methods project
